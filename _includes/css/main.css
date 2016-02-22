@@ -115,7 +115,8 @@ hr {
 {% assign navborder_active = 6 %}
 
 nav {
-  font-size:15px;
+  font-size:25px;
+  font-family:'Covered By Your Grace', Helvetica, Sans-serif;
   width:100%;
   position:fixed;
   z-index:100;
